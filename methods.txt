@@ -1,0 +1,7 @@
+Details of the methods:
+
+- Phtomosaics uploaded. So far an excel sheet contains the corresponding area to code mapping.
+- Becky digitized the flight path manually.
+- Found the corresponding photomosaic to the original MacConnel image. Need to crop out the required portion from the photomosaic and then perform geo-referencing.
+- ArcGIS need to be explored.
+- AutoGR could be explored for more functionalities.
